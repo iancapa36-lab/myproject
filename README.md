@@ -82,9 +82,3 @@ projeto/
 
 **Ianca Rodrigues**
 🔗 [LinkedIn](https://linkedin.com/in/IancaRodriguesDadosBi) | [GitHub](https://github.com/iancapa36-lab)
-
-
-👩‍💻 Autora
-
-Ianca Rodrigues
-🔗 LinkedIn | GitHub
